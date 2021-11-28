@@ -1,6 +1,6 @@
 public class Railfence{
 	private String encryptedText;
-	private int pTextLength, kLength;
+	private int pTextLength;
 
 	public String railfenceEncrypt(String plaintext, int rails){
 		
